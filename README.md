@@ -22,7 +22,7 @@ The challenge is to build out a QR code component and get it looking as close to
 
 ### Links
 
--   Solution URL: [QR Code Component on Netlify](https://your-solution-url.com)
+-   Solution URL: [QR Code Component on Netlify](https://main--cheery-alpaca-3ffdea.netlify.app/)
 
 ## Author
 
